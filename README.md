@@ -11,7 +11,9 @@ Faylni yuklab olib, Anaconda: Jupiter ,Google Colab, Visual Studio : Jupiter kab
   <li>sklearn</li>
   <li>matplotlib.pyplot</li>
   <li>seaborn</li>
-<ul>
-  <br><br>
+</ul>
+<br><br>
+
+  
 <strong>Sinab Ko'rildi :</strong><br>
 - Google Colab
